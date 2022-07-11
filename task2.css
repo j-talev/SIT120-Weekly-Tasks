@@ -1,0 +1,19 @@
+p{
+    color: red;
+}
+
+.title{
+    color: blueviolet;
+}
+
+#container{
+    font-size: small;
+    border: 1px solid green;
+    column-width: 10cm;
+    column-rule: 1px solid rgb(75, 70, 74);
+}
+
+img{
+    height: 500px;
+    width: 450px;
+}
